@@ -1,6 +1,4 @@
-# Capybara
-
-## Your personal financial assistant.
+# Your personal financial assistant.
 
 Take control of your finances with Capybara, an intuitive and easy-to-use app designed to help you track, analyse and improve your financial habits.
 Discover how Capybara can change the way you manage your personal finances and reach your savings and investment goals faster than ever before. 
