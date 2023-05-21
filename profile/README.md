@@ -1,12 +1,15 @@
-Toma el control de tus finanzas con Capybara, una aplicación intuitiva y fácil de usar
-diseñada para ayudarte a rastrear, analizar y mejorar tus hábitos financieros.
-Descubre cómo Capybara puede cambiar la forma en que manejas tus finanzas
-personales y alcanza tus objetivos de ahorro e inversión más rápido que nunca.
+# Capybara
 
-Características principales:
-- **Registro detallado de transacciones:** Lleva un seguimiento de tus ingresos,
-gastos, inversiones y ahorros con una interfaz simple y fácil de usar.
-- **Categorización personalizada:** Organiza tus transacciones en categorías y
-subcategorías para analizar tus hábitos de gasto de manera efectiva.
-- **Análisis visual de datos:** Descubre tendencias y patrones en tus finanzas con
-gráficos y tablas interactivas.
+## Your personal financial assistant.
+
+Take control of your finances with Capybara, an intuitive and easy-to-use app designed to help you track, analyse and improve your financial habits.
+Discover how Capybara can change the way you manage your personal finances and reach your savings and investment goals faster than ever before. 
+
+**Key features:**
+- Detailed transaction recording: Keep track of your income, expenses, investments and savings with a simple, easy-to-use interface.
+- Custom categorisation: Organise your transactions into categories and sub-categories to effectively analyse your spending habits.
+- Visual data analysis: Discover trends and patterns in your finances with interactive charts and graphs.
+- Goals and alerts: Set savings and investment goals and receive alerts when you get close to your spending limits.
+- Budgets and bills: Create monthly budgets and record your bills to keep tighter control of your spending.
+- Cross-device sync: Access your financial data anytime, on any device with real-time sync.
+- Security and privacy: Protect your data with state-of-the-art security measures, account, and data fully encrypted only accessible by the user.
